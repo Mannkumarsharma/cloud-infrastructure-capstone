@@ -36,6 +36,23 @@ Explore the lab materials and documentation by technical domain.
 | [Middleware](./middleware/) | Apache Tomcat setup and Java web application deployment |
 | [Oracle DBA](./oracle-dba/) | Relational database concepts and database fundamentals |
 
+## 🗺️ Learning Roadmap
+
+New learners can explore these topics in the following order:
+
+1. **Linux Fundamentals** — Learn command-line operations, file management, and permissions.
+2. **Windows Server Administration** — Explore user administration, system utilities, and troubleshooting.
+3. **Networking Fundamentals** — Understand IP addressing, network devices, and connectivity.
+4. **Active Directory & DNS** — Learn directory services, DNS configuration, and name resolution.
+5. **Virtualization** — Explore VMware, ESXi, and Hyper-V fundamentals.
+6. **Monitoring** — Understand infrastructure monitoring and resource visibility.
+7. **Storage & Backup** — Explore storage concepts, RAID, and backup fundamentals.
+8. **PowerShell** — Practise command execution, pipelines, and administration tasks.
+9. **Middleware** — Explore Apache Tomcat setup and Java web application deployment.
+10. **Oracle DBA Fundamentals** — Learn relational database concepts and database fundamentals.
+
+> **Note:** This roadmap is a suggested learning sequence. You can explore individual topics independently based on your interests and learning goals.
+
 ## 🧭 Technical Domains
 
 | Domain | Topics Covered |
