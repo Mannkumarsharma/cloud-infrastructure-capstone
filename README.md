@@ -19,6 +19,22 @@ The focus is on understanding how infrastructure technologies work, how they are
 - Document configurations, verification steps, and troubleshooting approaches.
 - Connect technical concepts to infrastructure support scenarios.
 - Identify opportunities for further practice and automation.
+## 🗂️ Repository Navigation
+
+Explore the lab materials and documentation by technical domain.
+
+| Topic | Description |
+|---|---|
+| [Linux](./linux/) | Linux administration, file permissions, and command-line operations |
+| [Windows Server](./windows-server/) | Windows administration, system monitoring, and troubleshooting |
+| [Active Directory & DNS](./active-directory-dns/) | Directory services, DNS configuration, and name resolution |
+| [Networking](./networking/) | IP addressing, network fundamentals, and connectivity |
+| [Virtualization](./virtualization/) | VMware, ESXi, and Hyper-V fundamentals |
+| [Monitoring](./monitoring/) | Infrastructure monitoring and resource visibility |
+| [Storage & Backup](./storage-and-backup/) | Storage concepts, RAID, and backup fundamentals |
+| [PowerShell](./powershell/) | PowerShell commands, pipelines, and administration |
+| [Middleware](./middleware/) | Apache Tomcat setup and Java web application deployment |
+| [Oracle DBA](./oracle-dba/) | Relational database concepts and database fundamentals |
 
 ## 🧭 Technical Domains
 
