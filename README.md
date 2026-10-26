@@ -53,6 +53,14 @@ New learners can explore these topics in the following order:
 
 > **Note:** This roadmap is a suggested learning sequence. You can explore individual topics independently based on your interests and learning goals.
 
+## 🏗️ Infrastructure Overview
+
+Explore the conceptual map of the technical domains covered in this portfolio.
+
+**[View the Infrastructure Learning Diagram](./diagrams/README.md)**
+
+The diagram groups the repository's learning materials into operating systems, identity and networking, virtualization, infrastructure operations, automation, and application and database services.
+
 ## 🧭 Technical Domains
 
 | Domain | Topics Covered |
