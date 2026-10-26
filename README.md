@@ -105,6 +105,14 @@ Where applicable, each topic will include:
 6. Key learning outcomes.
 7. Ideas for further independent practice.
 
+## Hands-On Lab Experience
+
+This repository documents practical infrastructure administration labs across Linux, Windows Server, Active Directory and DNS, networking, virtualization, monitoring, storage and backup, PowerShell automation, middleware, and Oracle DBA fundamentals.
+
+The lab materials include command-line exercises, configuration procedures, administration tasks, scripts, troubleshooting steps, and screenshots documenting lab activities and results.
+
+Topics include user and group management, Group Policy configuration, networking exercises, virtualization procedures, Linux administration, and infrastructure operations.
+
 ## 👥 Who Can Benefit?
 
 This repository is intended for:
